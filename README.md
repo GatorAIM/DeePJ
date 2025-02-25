@@ -1,4 +1,4 @@
-# Deep Patient Journey (DeePJ) 
+# Deep Patient Journey (DeepJ) 
 ![DeePJ Architecture](Architecture.png)   
 
 ![DeePJ Architecture](workflow.png)   
